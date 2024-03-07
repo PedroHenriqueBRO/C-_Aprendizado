@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\abstração\abstração\bin\Debug\net8.0\abstração.exe
+C:\Users\xtron\Desktop\C#\abstração\abstração\bin\Debug\net8.0\abstração.deps.json
+C:\Users\xtron\Desktop\C#\abstração\abstração\bin\Debug\net8.0\abstração.runtimeconfig.json
+C:\Users\xtron\Desktop\C#\abstração\abstração\bin\Debug\net8.0\abstração.dll
+C:\Users\xtron\Desktop\C#\abstração\abstração\bin\Debug\net8.0\abstração.pdb
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\abstração.AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\abstração.AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\abstração.csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\abstração.dll
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\refint\abstração.dll
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\abstração.pdb
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\abstração.genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\abstração\abstração\obj\Debug\net8.0\ref\abstração.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|c:\\users\\xtron\\desktop\\c#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|c:\\users\\xtron\\desktop\\c#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|c:\\users\\xtron\\desktop\\c#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|c:\\users\\xtron\\desktop\\c#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\entities\\enums\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\entities\\enums\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|c:\\users\\xtron\\desktop\\c#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7988E1-38A9-4942-BEB0-F73F84726EC7}|abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\Retangulo.cs",
+              "RelativeDocumentMoniker": "abstra\u00E7\u00E3o\\Entities\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\Retangulo.cs",
+              "RelativeToolTip": "abstra\u00E7\u00E3o\\Entities\\Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T00:52:59.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\Circulo.cs",
+              "RelativeDocumentMoniker": "abstra\u00E7\u00E3o\\Entities\\Circulo.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\Circulo.cs",
+              "RelativeToolTip": "abstra\u00E7\u00E3o\\Entities\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T00:52:02.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "abstra\u00E7\u00E3o\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\Shape.cs",
+              "RelativeToolTip": "abstra\u00E7\u00E3o\\Entities\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T00:51:29.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "colors.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\enums\\colors.cs",
+              "RelativeDocumentMoniker": "abstra\u00E7\u00E3o\\Entities\\enums\\colors.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Entities\\enums\\colors.cs",
+              "RelativeToolTip": "abstra\u00E7\u00E3o\\Entities\\enums\\colors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T00:47:11.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "abstra\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "abstra\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T00:26:14.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
