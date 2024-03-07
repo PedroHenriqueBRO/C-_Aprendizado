@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|c:\\users\\xtron\\desktop\\c#\\problemadiamante\\problemadiamante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|solutionrelative:problemadiamante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|c:\\users\\xtron\\desktop\\c#\\problemadiamante\\problemadiamante\\entitites\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|solutionrelative:problemadiamante\\entitites\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|c:\\users\\xtron\\desktop\\c#\\problemadiamante\\problemadiamante\\entitites\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|solutionrelative:problemadiamante\\entitites\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|c:\\users\\xtron\\desktop\\c#\\problemadiamante\\problemadiamante\\entitites\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|solutionrelative:problemadiamante\\entitites\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|c:\\users\\xtron\\desktop\\c#\\problemadiamante\\problemadiamante\\entitites\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E2A022-9832-48BC-BAEC-06777B7895A5}|ProblemaDiamante\\ProblemaDiamante.csproj|solutionrelative:problemadiamante\\entitites\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\IScanner.cs",
+              "RelativeDocumentMoniker": "ProblemaDiamante\\Entitites\\IScanner.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\IScanner.cs",
+              "RelativeToolTip": "ProblemaDiamante\\Entitites\\IScanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:24:57.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\IPrinter.cs",
+              "RelativeDocumentMoniker": "ProblemaDiamante\\Entitites\\IPrinter.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\IPrinter.cs",
+              "RelativeToolTip": "ProblemaDiamante\\Entitites\\IPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:21:17.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComboDevice.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\ComboDevice.cs",
+              "RelativeDocumentMoniker": "ProblemaDiamante\\Entitites\\ComboDevice.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\ComboDevice.cs",
+              "RelativeToolTip": "ProblemaDiamante\\Entitites\\ComboDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:17:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\Device.cs",
+              "RelativeDocumentMoniker": "ProblemaDiamante\\Entitites\\Device.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Entitites\\Device.cs",
+              "RelativeToolTip": "ProblemaDiamante\\Entitites\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:16:37.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemaDiamante\\Program.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\ProblemaDiamante\\ProblemaDiamante\\Program.cs",
+              "RelativeToolTip": "ProblemaDiamante\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:16:06.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

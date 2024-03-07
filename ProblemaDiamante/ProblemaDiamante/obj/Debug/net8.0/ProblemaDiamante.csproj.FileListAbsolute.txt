@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\bin\Debug\net8.0\ProblemaDiamante.exe
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\bin\Debug\net8.0\ProblemaDiamante.deps.json
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\bin\Debug\net8.0\ProblemaDiamante.runtimeconfig.json
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\bin\Debug\net8.0\ProblemaDiamante.dll
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\bin\Debug\net8.0\ProblemaDiamante.pdb
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ProblemaDiamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ProblemaDiamante.AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ProblemaDiamante.AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ProblemaDiamante.csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ProblemaDiamante.dll
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\refint\ProblemaDiamante.dll
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ProblemaDiamante.pdb
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ProblemaDiamante.genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\ProblemaDiamante\ProblemaDiamante\obj\Debug\net8.0\ref\ProblemaDiamante.dll
