@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|c:\\users\\xtron\\desktop\\c#\\pedidos\\pedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|c:\\users\\xtron\\desktop\\c#\\pedidos\\pedidos\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|c:\\users\\xtron\\desktop\\c#\\pedidos\\pedidos\\entities\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\entities\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|c:\\users\\xtron\\desktop\\c#\\pedidos\\pedidos\\entities\\enums\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\entities\\enums\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|c:\\users\\xtron\\desktop\\c#\\pedidos\\pedidos\\pedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23E0577C-712E-44C0-BED0-EF9929137EFE}|Pedidos\\Pedidos.csproj|solutionrelative:pedidos\\pedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Entities\\Pedido.cs",
+              "RelativeToolTip": "Pedidos\\Entities\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:06:26.176Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entidade.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Entities\\Entidade.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Entities\\Entidade.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Entities\\Entidade.cs",
+              "RelativeToolTip": "Pedidos\\Entities\\Entidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:59:32.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedidos",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Pedidos.csproj",
+              "RelativeDocumentMoniker": "Pedidos\\Pedidos.csproj",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Pedidos.csproj",
+              "RelativeToolTip": "Pedidos\\Pedidos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T17:38:56.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Entities\\enums\\Class1.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Entities\\enums\\Class1.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Entities\\enums\\Class1.cs",
+              "RelativeToolTip": "Pedidos\\Entities\\enums\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:34:46.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Program.cs",
+              "RelativeDocumentMoniker": "Pedidos\\Program.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\Pedidos\\Pedidos\\Program.cs",
+              "RelativeToolTip": "Pedidos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:00:13.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
