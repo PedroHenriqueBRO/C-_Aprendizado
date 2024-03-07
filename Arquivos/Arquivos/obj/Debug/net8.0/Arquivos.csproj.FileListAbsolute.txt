@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.exe
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.deps.json
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.runtimeconfig.json
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.dll
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.pdb
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.dll
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\refint\Arquivos.dll
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.pdb
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\Arquivos\Arquivos\obj\Debug\net8.0\ref\Arquivos.dll
