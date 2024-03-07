@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\bin\Debug\net8.0\Exceptionsss.exe
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\bin\Debug\net8.0\Exceptionsss.deps.json
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\bin\Debug\net8.0\Exceptionsss.runtimeconfig.json
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\bin\Debug\net8.0\Exceptionsss.dll
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\bin\Debug\net8.0\Exceptionsss.pdb
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\Exceptionsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\Exceptionsss.AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\Exceptionsss.AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\Exceptionsss.csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\Exceptionsss.dll
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\refint\Exceptionsss.dll
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\Exceptionsss.pdb
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\Exceptionsss.genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\Exceptionsss\Exceptionsss\obj\Debug\net8.0\ref\Exceptionsss.dll
