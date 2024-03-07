@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xtron\\Desktop\\C#\\Exercicio(heran\u00E7a e polimorfismo)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3B5887-C0D1-46F3-B368-6CE2FE8984F2}|Exercicio(heran\u00E7a e polimorfismo)\\Exercicio(heran\u00E7a e polimorfismo).csproj|c:\\users\\xtron\\desktop\\c#\\exercicio(heran\u00E7a e polimorfismo)\\exercicio(heran\u00E7a e polimorfismo)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B5887-C0D1-46F3-B368-6CE2FE8984F2}|Exercicio(heran\u00E7a e polimorfismo)\\Exercicio(heran\u00E7a e polimorfismo).csproj|solutionrelative:exercicio(heran\u00E7a e polimorfismo)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xtron\\Desktop\\C#\\Exercicio(heran\u00E7a e polimorfismo)\\Exercicio(heran\u00E7a e polimorfismo)\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio(heran\u00E7a e polimorfismo)\\Program.cs",
+              "ToolTip": "C:\\Users\\xtron\\Desktop\\C#\\Exercicio(heran\u00E7a e polimorfismo)\\Exercicio(heran\u00E7a e polimorfismo)\\Program.cs",
+              "RelativeToolTip": "Exercicio(heran\u00E7a e polimorfismo)\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T23:29:36.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

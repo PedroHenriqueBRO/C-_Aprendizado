@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\bin\Debug\net8.0\Exercicio(herança e polimorfismo).exe
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\bin\Debug\net8.0\Exercicio(herança e polimorfismo).deps.json
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\bin\Debug\net8.0\Exercicio(herança e polimorfismo).runtimeconfig.json
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\bin\Debug\net8.0\Exercicio(herança e polimorfismo).dll
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\bin\Debug\net8.0\Exercicio(herança e polimorfismo).pdb
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\Exercicio(herança e polimorfismo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\Exercicio(herança e polimorfismo).AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\Exercicio(herança e polimorfismo).AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\Exercicio(herança e polimorfismo).csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\Exercicio(herança e polimorfismo).dll
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\refint\Exercicio(herança e polimorfismo).dll
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\Exercicio(herança e polimorfismo).pdb
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\Exercicio(herança e polimorfismo).genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\Exercicio(herança e polimorfismo)\Exercicio(herança e polimorfismo)\obj\Debug\net8.0\ref\Exercicio(herança e polimorfismo).dll
