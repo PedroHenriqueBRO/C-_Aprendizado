@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\bin\Debug\net8.0\Conta bancária com exception.exe
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\bin\Debug\net8.0\Conta bancária com exception.deps.json
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\bin\Debug\net8.0\Conta bancária com exception.runtimeconfig.json
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\bin\Debug\net8.0\Conta bancária com exception.dll
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\bin\Debug\net8.0\Conta bancária com exception.pdb
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\Conta bancária com exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\Conta bancária com exception.AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\Conta bancária com exception.AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\Conta bancária com exception.csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\Conta bancária com exception.dll
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\refint\Conta bancária com exception.dll
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\Conta bancária com exception.pdb
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\Conta bancária com exception.genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\Conta bancária com exception\Conta bancária com exception\obj\Debug\net8.0\ref\Conta bancária com exception.dll
