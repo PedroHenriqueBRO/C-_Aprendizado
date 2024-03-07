@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\bin\Debug\net8.0\Trabalhador(Exercício).exe
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\bin\Debug\net8.0\Trabalhador(Exercício).deps.json
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\bin\Debug\net8.0\Trabalhador(Exercício).runtimeconfig.json
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\bin\Debug\net8.0\Trabalhador(Exercício).dll
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\bin\Debug\net8.0\Trabalhador(Exercício).pdb
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\Trabalhador(Exercício).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\Trabalhador(Exercício).AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\Trabalhador(Exercício).AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\Trabalhador(Exercício).csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\Trabalhador(Exercício).dll
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\refint\Trabalhador(Exercício).dll
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\Trabalhador(Exercício).pdb
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\Trabalhador(Exercício).genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\Trabalhador(Exercício)\Trabalhador(Exercício)\obj\Debug\net8.0\ref\Trabalhador(Exercício).dll
