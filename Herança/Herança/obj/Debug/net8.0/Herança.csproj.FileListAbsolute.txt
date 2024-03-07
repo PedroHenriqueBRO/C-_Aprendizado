@@ -1,0 +1,14 @@
+C:\Users\xtron\Desktop\C#\Herança\Herança\bin\Debug\net8.0\Herança.exe
+C:\Users\xtron\Desktop\C#\Herança\Herança\bin\Debug\net8.0\Herança.deps.json
+C:\Users\xtron\Desktop\C#\Herança\Herança\bin\Debug\net8.0\Herança.runtimeconfig.json
+C:\Users\xtron\Desktop\C#\Herança\Herança\bin\Debug\net8.0\Herança.dll
+C:\Users\xtron\Desktop\C#\Herança\Herança\bin\Debug\net8.0\Herança.pdb
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfo.cs
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\Herança.dll
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\refint\Herança.dll
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\Herança.pdb
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\Herança.genruntimeconfig.cache
+C:\Users\xtron\Desktop\C#\Herança\Herança\obj\Debug\net8.0\ref\Herança.dll
