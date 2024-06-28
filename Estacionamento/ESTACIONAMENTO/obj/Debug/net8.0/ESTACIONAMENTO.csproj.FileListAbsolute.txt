@@ -1,0 +1,15 @@
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.AssemblyInfoInputs.cache
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.AssemblyInfo.cs
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.csproj.CoreCompileInputs.cache
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.sourcelink.json
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\bin\Debug\net8.0\ESTACIONAMENTO.exe
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\bin\Debug\net8.0\ESTACIONAMENTO.deps.json
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\bin\Debug\net8.0\ESTACIONAMENTO.runtimeconfig.json
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\bin\Debug\net8.0\ESTACIONAMENTO.dll
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\bin\Debug\net8.0\ESTACIONAMENTO.pdb
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.dll
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\refint\ESTACIONAMENTO.dll
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.pdb
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ESTACIONAMENTO.genruntimeconfig.cache
+C:\Users\xtron\Desktop\CSharp_Aprendizado\Estacionamento\ESTACIONAMENTO\obj\Debug\net8.0\ref\ESTACIONAMENTO.dll

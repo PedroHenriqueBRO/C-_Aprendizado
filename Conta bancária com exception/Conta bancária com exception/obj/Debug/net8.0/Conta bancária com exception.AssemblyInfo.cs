@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conta bancária com exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a90e0435b4ee35660c301a6b71b20b64ea818c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conta bancária com exception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conta bancária com exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
